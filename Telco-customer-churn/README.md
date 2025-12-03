@@ -57,5 +57,5 @@ Contains customer demographics, service details, contract types, and churn label
 ---
 
 ## Files in This Folder
-- `telco.ipynb`
+- `Telco.ipynb`
 - `README.md`
